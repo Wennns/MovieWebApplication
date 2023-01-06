@@ -1,0 +1,25 @@
+.SearchPopular {
+  text-align: center;
+  font-family: monospace;
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+}
+.SearchPopular a{
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+  background-color:green;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color:#282c34;
+  text-align: center;
+  font-family: monospace;
+  background-color: #282c34;
+  color: white;
+}
